@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085923809940",
+    "firebase_url": "https://secretmessage-c236f.firebaseio.com",
+    "project_id": "secretmessage-c236f",
+    "storage_bucket": "secretmessage-c236f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085923809940:android:21f449536e518dfbb17281",
+        "android_client_info": {
+          "package_name": "com.example.param.secretmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085923809940-sfhmi6ilua2l9tsmqbq06bb48fjjd14r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.param.secretmessage",
+            "certificate_hash": "380d8236d553738e1c4ddf1b2aec32c76ace1e66"
+          }
+        },
+        {
+          "client_id": "1085923809940-dd03hsvei61kn7hse94rkk7ur1nu8ll1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiORnkc8hhdA7saP1_8w8IxqMVpEkDl5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085923809940-dd03hsvei61kn7hse94rkk7ur1nu8ll1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

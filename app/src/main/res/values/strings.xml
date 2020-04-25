@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecretMessage</string>
+    <string name="enter_a_message_to_encode_or_decode">Enter a message to encode or decode</string>
+
+</resources>
